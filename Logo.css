@@ -1,0 +1,11 @@
+.logo-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  .logo{
+    background-image: url(images/locker.png) ;
+    background-size: cover;
+    width: 260px;
+    height: 60px;
+  }

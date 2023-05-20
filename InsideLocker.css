@@ -1,0 +1,51 @@
+.backButton{
+    display: flex;
+    width: 100px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+
+.searchbar {
+    width: 420px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+.filter{
+    display: flex; 
+    justify-content: center;
+    margin-top: 10vh;
+    height: 40px;
+    width: 91vw;
+}
+
+
+.SkinBox{
+    display: flex;
+    width: 75vw;
+    flex-wrap: wrap;
+}
+.SkinPicture{
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    border: solid 1px black;
+    text-align: center;
+}
+.SkinPicture:hover{
+    border: solid 1px yellow;
+}
+
+#filter{
+    width: 100px;
+    height: 33px;
+}
+.search{
+    border: solid 1px black;
+    display: flex;
+    font-size: 15px;
+    width: 400px;
+}

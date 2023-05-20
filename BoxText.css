@@ -1,0 +1,37 @@
+.box-texts{
+    display: flex; 
+    justify-content: center;
+    margin-top: 20vh;
+}
+.outfit-text{
+    background-image: url(images/outfit.png);
+    background-size: cover;
+    height: 30px;
+    width: 120px;
+    margin-left: 0px;
+    margin-right: 20px;
+}
+.backbling-text{
+    background-image: url(images/backbling.png);
+    background-size: cover;
+    height: 30px;
+    width: 180px;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+.pickaxe-text{
+    background-image: url(images/pickaxe.png);
+    background-size: cover;
+    height: 30px;
+    width: 144px;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+.glider-text{
+    background-image: url(images/glider.png);
+    background-size: cover;
+    height: 25px;
+    width: 120px;
+    margin-left: 20px;
+    margin-right: 0px;
+}

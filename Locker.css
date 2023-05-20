@@ -1,0 +1,22 @@
+.skin-box{
+    border: solid 3px lightgray;
+    width: 144px;
+    height: 210px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .box{
+    width: 144px;
+    height: 210px;
+  }
+  .locker-boxes{
+    width: 100vw;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .skin-box:hover{
+    border: solid rgb(172, 172, 172) 3px;
+  }
+  
